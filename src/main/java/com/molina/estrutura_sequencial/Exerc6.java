@@ -10,7 +10,7 @@ import java.util.Scanner;
 //c) a área do trapézio que tem A e B por bases e C por altura.
 //d) a área do quadrado que tem lado B.
 //e) a área do retângulo que tem lados A e B.
-public class exerc6 {
+public class Exerc6 {
 
     public static void main(String[] args) {
 

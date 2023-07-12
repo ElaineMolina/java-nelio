@@ -2,7 +2,7 @@ package com.molina.estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class exerc1 {
+public class Exerc1 {
 
     public static void main(String[] args) {
 

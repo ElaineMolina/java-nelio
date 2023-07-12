@@ -3,7 +3,7 @@ package com.molina.estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exerc2 {
+public class Exerc2 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
