@@ -10,12 +10,12 @@ public class Exerc1 {
 
         int x, y, soma;
 
+        System.out.println("Digite primeiro valor: ");
         x = sc.nextInt();
+        System.out.println("Digite segundo valor: ");
         y = sc.nextInt();
-        soma = x + y;
 
-        System.out.println("Digite primeiro valor: " + x);
-        System.out.println("Digite segundo valor: " + y);
+        soma = x + y;
         System.out.println("Soma: " + soma);
 
         sc.close();
