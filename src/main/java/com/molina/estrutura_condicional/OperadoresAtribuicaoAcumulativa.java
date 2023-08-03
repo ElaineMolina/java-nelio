@@ -3,7 +3,7 @@ package com.molina.estrutura_condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Operadores_atribuicao_acumulativa {
+public class OperadoresAtribuicaoAcumulativa {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

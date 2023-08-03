@@ -1,6 +1,6 @@
 package com.molina.estrutura_sequencial;
 
-public class Estrutura_sequencial {
+public class EstruturaSequencial {
 
     public static void main(String[] args) {
         double b, B, h, area;

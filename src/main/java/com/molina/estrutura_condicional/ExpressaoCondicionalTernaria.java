@@ -2,7 +2,7 @@ package com.molina.estrutura_condicional;
 
 import java.util.Scanner;
 
-public class Expressao_condicional_ternaria {
+public class ExpressaoCondicionalTernaria {
 
     public static void main(String[] args) {
 

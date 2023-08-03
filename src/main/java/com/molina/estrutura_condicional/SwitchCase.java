@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Fazer um programa para ler um valor inteiro de 1 a 7 representando um
 //dia da semana (sendo 1=domingo, 2=segunda, e assim por diante).
 //Escrever na tela o dia da semana correspondente, conforme exemplos.
-public class Switch_case {
+public class SwitchCase {
             public static void main(String[] args) {
 
                 Scanner sc = new Scanner(System.in);

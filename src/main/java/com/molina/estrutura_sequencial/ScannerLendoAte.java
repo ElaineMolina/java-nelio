@@ -3,7 +3,7 @@ package com.molina.estrutura_sequencial;
 //    Para ler um texto ATÉ A QUEBRA DE LINHA
 
 import java.util.Scanner;
-public class Scanner_lendo_ate {
+public class ScannerLendoAte {
 
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);

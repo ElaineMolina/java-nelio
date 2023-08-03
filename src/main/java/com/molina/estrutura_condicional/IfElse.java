@@ -2,7 +2,7 @@ package com.molina.estrutura_condicional;
 
 import java.util.Scanner;
 
-public class If_else {
+public class IfElse {
 
     public static void main(String[] args) {
 

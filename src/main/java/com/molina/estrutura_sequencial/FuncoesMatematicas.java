@@ -1,6 +1,6 @@
 package com.molina.estrutura_sequencial;
 
-public class Funcoes_matematicas {
+public class FuncoesMatematicas {
     //Algumas funções matemáticas em Java
 
 //    A = Math.sqrt(x); Variável A recebe a raiz quadrada de x

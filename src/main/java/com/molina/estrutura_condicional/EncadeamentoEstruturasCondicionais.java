@@ -2,7 +2,7 @@ package com.molina.estrutura_condicional;
 
 import java.util.Scanner;
 
-public class Encadeamento_estruturas_condicionais {
+public class EncadeamentoEstruturasCondicionais {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
