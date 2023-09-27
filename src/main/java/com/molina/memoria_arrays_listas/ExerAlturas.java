@@ -20,7 +20,7 @@ public class ExerAlturas {
         int[] idades = new int[num];
         double[] alturas = new double[num];
 
-        for ( int i = 0; i < num; i++) {
+        for (int i = 0; i < num; i++) {
             System.out.printf("Dados da %da pessoa:\n" , i + 1);
             System.out.print("Nome:  ");
             nomes[i] = sc.next();
@@ -44,7 +44,7 @@ public class ExerAlturas {
         percentualMenores = ((double)menores / num) * 100.0;
 
         System.out.printf("\nAltura média: %.2f\n" , mediaAltura);
-        System.out.printf("\nMenores de 16 anos:  %.1f\n" , percentualMenores);
+        System.out.printf("\nMenores de 16 anos:  %.1f%%\n" , percentualMenores);
 
         for(int i=0; i < num; i++) {
             if (idades[i] < 16) {

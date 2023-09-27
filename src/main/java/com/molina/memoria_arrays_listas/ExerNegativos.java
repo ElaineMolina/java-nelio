@@ -11,8 +11,8 @@ public class ExerNegativos {
         Scanner sc = new Scanner(System.in);
 
         int num;
-        System.out.print("De 0 a 10, quantos números você irá digitar? ");
 
+        System.out.print("De 0 a 10, quantos números você irá digitar? ");
         num = sc.nextInt();
 
         int[] vetor = new int[num];
